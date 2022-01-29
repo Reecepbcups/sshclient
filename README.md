@@ -1,5 +1,5 @@
 # sshclient
-Application to make scaling ssh connections easier for many machines
+Application to make scaling ssh connections easier for many machines **LINUX ONLY**
 
 # Setup
 - Clone Repo / Copy code to a python file
