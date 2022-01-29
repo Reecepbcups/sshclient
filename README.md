@@ -13,4 +13,3 @@ Application to make scaling ssh connections easier for many machines **LINUX ONL
 
 # Usage
 ./sshclient.py myserver
-./sshclient.py
